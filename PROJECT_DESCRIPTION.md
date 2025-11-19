@@ -209,6 +209,16 @@ Unhappy Path Tests:
 ### Running Tests
 
 From the anchor_project/tip_jar
+
+Install dependencies
+```bash
+yarn install
+```
+Build the program 
+```bash
+anchor build
+```
+To run the test
 ```bash
 # Commands to run your tests
 anchor test
@@ -218,6 +228,21 @@ This will:
     Run the TypeScript test suite:
         Located under tests/.
         Using ts-mocha as configured in Anchor.toml.
+
+Running the front end 
+
+From the project root
+```bash 
+cd frontend
+```
+Install dependencis
+```bash
+yarn install
+```
+Start the dev server
+```bash
+yarn dev
+```
 
 ### Additional Notes for Evaluators
 
