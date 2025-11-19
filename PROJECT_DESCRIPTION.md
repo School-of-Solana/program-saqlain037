@@ -1,9 +1,9 @@
 # Project Description
 Solana Tip Jar dApp
 
-**Deployed Frontend URL:** [TODO: Link to your deployed frontend]
+**Deployed Frontend URL:** (https://program-saqlain037-2lkg0c6w3-saqlain-gulamhuseins-projects.vercel.app)
 
-**Solana Program ID:** [TODO: Your deployed program's public key]
+**Solana Program ID:** Gu7sMSSwiYm4JhKisQxAEA8EyJhiKfE2WRQuPFiUjinK
 
 ## Project Overview
 
